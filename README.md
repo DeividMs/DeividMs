@@ -5,8 +5,8 @@
 <div align="center">
   
  
-  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=DeividMs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividMs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=DeividMs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividMs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Stacks
@@ -35,5 +35,11 @@
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Gráficos
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividMs&show_icons=true&theme=github_dark&layout=compact&hide_border=true" height="200">
+
+</div>
 
 ![Snake animation](https://github.com/DeividMs/DeividMs/blob/output/github-contribution-grid-snake.svg)
