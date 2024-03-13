@@ -43,10 +43,10 @@ Atualmente trabalho como desenvolvedor web na [Tec Capital](https://tec.capital)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<!--### Gráficos
+### Gráficos
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividMs&show_icons=true&theme=github_dark&layout=compact&hide_border=true" height="200">
 
-</div>-->
+</div>
 
 ![Snake animation](https://github.com/DeividMs/DeividMs/blob/output/github-contribution-grid-snake.svg)
