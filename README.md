@@ -37,3 +37,5 @@ Atualmente trabalho como desenvolvedor web na [Tec Capital](https://tec.capital)
 
 
 ![Snake animation](https://github.com/DeividMs/DeividMs/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
