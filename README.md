@@ -36,6 +36,4 @@ Atualmente trabalho como desenvolvedor web na [Tec Capital](https://tec.capital)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Snake animation](https://github.com/DeividMs/DeividMs/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/gustavocostaads/gustavocostaads/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/deividms/deividms/blob/output/github-contribution-grid-snake.svg)
